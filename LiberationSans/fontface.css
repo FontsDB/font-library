@@ -2,26 +2,26 @@
     font-family: "Liberation Sans";
     font-weight: 400;
     font-style: normal;
-    src: url(fonts/LiberationSans-Regular.ttf);
+    src: url(LiberationSans-Regular.ttf);
 }
 
 @font-face {
     font-family: "Liberation Sans";
     font-weight: 400;
     font-style: normal;
-    src: url(fonts/LiberationSans-Italic.ttf);
+    src: url(LiberationSans-Italic.ttf);
 }
 
 @font-face {
     font-family: "Liberation Sans";
     font-weight: 700;
     font-style: normal;
-    src: url(fonts/LiberationSans-Bold.ttf);
+    src: url(LiberationSans-Bold.ttf);
 }
 
 @font-face {
     font-family: "Liberation Sans";
     font-weight: 700;
     font-style: italic;
-    src: url(fonts/LiberationSans-BoldItalic.ttf);
+    src: url(LiberationSans-BoldItalic.ttf);
 }
